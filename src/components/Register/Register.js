@@ -1,5 +1,4 @@
 import React from 'react'
-/* var BACKEND_URL = 'http://localhost:3001';*/
 var BACKEND_URL = 'https://qiao-mu-face-recognize-backend.onrender.com';
 
 
